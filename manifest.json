@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Material Color Sync",
   "version": "1.0",
-  "description": "Automatically sync Firefox theme with end-4 Material colors",
+  "description": "Automatically sync Firefox theme with Material Design colors",
   
   "permissions": [
     "theme",
@@ -32,7 +32,7 @@
   "icons": {
     "16": "icons/icon-16.png",
     "32": "icons/icon-32.png",
-    "48": "icons/icon-48.png",
+    "64": "icons/icon-64.png",
     "128": "icons/icon-128.png"
   }
 }
